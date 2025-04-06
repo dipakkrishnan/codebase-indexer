@@ -1,0 +1,4 @@
+.env
+milvus*
+__pycache__
+.milvus*
